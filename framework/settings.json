@@ -1,0 +1,7 @@
+{
+	"locs":{
+		"train_data":"/media/max/Data/kaggle/santander/train.csv",
+		"test_data":"/media/max/Data/kaggle/santander/test.csv",
+		"sample_submission":"/media/max/Data/kaggle/santander/sample_submission.csv"
+	}
+}
